@@ -436,7 +436,7 @@ ol {
 /*----------------------------------------*/
 .header-area {
 	position: absolute;
-	width: 100%;
+	width: 98%;
 	top: 0;
 	z-index: 50;
 }
@@ -520,7 +520,7 @@ ol {
 
 .left-bar {
 	position: absolute;
-	width: 100px;
+	width: 20px;
 	height: 100%;
 	background: #6F807C;
 	z-index: 20;
@@ -528,7 +528,7 @@ ol {
 
 .left-bar .left-bar-content {
 	position: absolute;
-	width: 100%;
+	width: 20%;
 	bottom: 0;
 	text-align: center;
 	margin-bottom: 90px;
@@ -670,7 +670,7 @@ ol {
 }
 
 .owl-item.active .slide-content {
-	opacity: 1;
+	opacity: 0;
 }
 
 /*----------------------------------------*/
